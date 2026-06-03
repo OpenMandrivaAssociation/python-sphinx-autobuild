@@ -1,0 +1,4 @@
+# in order to generate a man page with help2man, this package requires _ALL_ of
+# its runtime dependencies, that is not desirable in CI.
+# Upstream also points out all documentation is in the README.rst file.
+addFilter("W: no-manual-page-for-binary")
