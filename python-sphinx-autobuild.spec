@@ -8,7 +8,7 @@
 
 Name:		python-sphinx-autobuild
 Version:	2025.8.25
-Release:	1
+Release:	2
 Summary:	Rebuild Sphinx documentation on changes, with hot reloading in the browser
 License:	MIT
 Group:		Development/Python
